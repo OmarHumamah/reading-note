@@ -10,4 +10,5 @@ These is the syntax you can use.
 5. **Blockquotes**
 6. **Images**
 7. **Inline code**
+
 You can go to this link [https://guides.github.com/features/mastering-markdown/](url) to see more information. 
