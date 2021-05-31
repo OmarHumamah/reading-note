@@ -1,7 +1,7 @@
-#Reflection and Discussion
+# Reflection and Discussion
 **Mastering Markdown on GitHub** GitHub is easy platform to to write and storage your projects. and Markdown is an easy language with easy-to-use syntax you use to build and style the form of your readme about your projects. 
 
-###Syntax guide.
+### Syntax guide.
 These is the syntax you can use.
 1. **Headers** 
 2. **Emphasis**
