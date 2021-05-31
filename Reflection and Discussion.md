@@ -11,4 +11,19 @@ These is the syntax you can use.
 6. **Images**
 7. **Inline code**
 
+
+
+### GitHub Flavored Markdown.
+GitHub Flavored Markdown has more useful features, which make the whole process easier.
+1. **Syntax highlighting** 
+2. **Task Lists**
+3. **Tables** 
+4. **SHA references**
+5. **Issue references within a repository**
+6. **Username @mentions**
+7. **Emoji**
+8. **Strikethrough**
+
+
+
 You can go to this link [https://guides.github.com/features/mastering-markdown/](url) to see more information. 
