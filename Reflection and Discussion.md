@@ -26,7 +26,7 @@ GitHub Flavored Markdown has more useful features, which make the whole process 
 
 
 
-You can go to this link [https://guides.github.com/features/mastering-markdown/](url) to see more information. 
+You can go to this [link](https://guides.github.com/features/mastering-markdown/) to see more information. 
 
 ### GitHub Pages.
 Github Pages lets you to turn github projects or *repositories* to a website to show your projects, documentations or anything else without any server, certainly, in an easy way.
