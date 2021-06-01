@@ -13,4 +13,6 @@
    - ` NO PAIN, NO GAIN `
  
  **Finally, avoiding critism will make me success as well others** 
-   - Certainly not constructive criticism
+   - Certainly not constructive criticism.
+
+**[Back to: Homepage](https://omarhumamah.github.io/reading-note/).**
