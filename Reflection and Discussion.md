@@ -2,7 +2,8 @@
 **Mastering Markdown on GitHub** GitHub is easy platform to write and storage your projects. and Markdown is an easy language with easy-to-use syntax you use to build and style the form of your readme about your projects. 
 
 ### Syntax guide.
-These is the syntax you can use.
+These are some syntax you can use.
+
 1. **Headers** 
 2. **Emphasis**
 3. **Lists** 
@@ -14,7 +15,8 @@ These is the syntax you can use.
 You can go to this [link](https://guides.github.com/features/mastering-markdown/) to see more information.
 
 ### GitHub Flavored Markdown.
-GitHub Flavored Markdown has more useful features, which make the whole process easier.
+GitHub Flavored Markdown has more useful features, which make the whole process easier and stylish.
+
 1. **Syntax highlighting** 
 2. **Task Lists**
 3. **Tables** 
@@ -31,3 +33,4 @@ You can go to this [link](https://guides.github.com/features/mastering-markdown/
 ### GitHub Pages.
 Github Pages lets you to turn github projects or *repositories* to a website to show your projects, documentations or anything else without any server, certainly, in an easy way.
 
+**[Back to: Homepage](https://omarhumamah.github.io/reading-note/).**
