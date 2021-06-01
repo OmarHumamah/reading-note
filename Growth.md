@@ -1,4 +1,4 @@
-# reading-note
+# Growth mindset
 **Growth mindset** is the believe in your self that you will get better and can develope your abilities and talents throw *making more efforts* and *spending more time*.
 
 ### things to keep growth midseted.
