@@ -12,7 +12,12 @@
    - I will make my best and above to reach my gaol, beside the time, I will try to manage my time to have the best results.
    - ` NO PAIN, NO GAIN `
  
+<<<<<<< HEAD
  **Finally, avoiding critism will make me success as well as others** 
    - Certainly not avoiding the constructive criticism.
+=======
+ **Finally, avoiding critism will make me success as well others** 
+   - Certainly not constructive criticism.
+>>>>>>> 31be9ebbd5d917ac2136f05b79280c696b89555e
 
 **[Back to: Homepage](https://omarhumamah.github.io/reading-note/).**
