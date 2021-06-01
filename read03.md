@@ -1,5 +1,6 @@
 # Structure web pages with HTML
 
+
 ## Wireframe and Design
 **what is the wireframe?**
 
@@ -14,6 +15,5 @@ After that, make a quick revesion to the sketch to know if everything is in the 
 
 Second thing to do is picking an online wireframe tool, like Wireframe.cc, to digitize your sketch as a prototype. Now you can transfer what in your sketch paper into the wireframe tool and adjest the shape, buttons, logo and ect.
 So, we use pen and paper, and digitil wireframe tool.
-
 
 **[Back to: Homepage](https://omarhumamah.github.io/reading-note/).**
