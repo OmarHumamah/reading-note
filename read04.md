@@ -5,7 +5,7 @@ It is programming language well known as scripted language for web. JavaScript i
 In another word it is a language to make the web page dynamic, so the user could interact with the page.
 * **Input and Output in JS**
 
-- by JS language, you can take inputs from the user and combine it with your project to create multiple interesting thing, like greeting , confirm, alerts messages.
+ - by JS language, you can take inputs from the user and combine it with your project to create multiple interesting thing, like greeting , confirm, alerts messages.
 
 >alert('welcome to my cats world')
 
@@ -14,7 +14,7 @@ like?")
 
 >alert('you like ' + catAnswer)
 
-- by these scripted commands, you can order your page to ask the user about his favourite cat type for example.
+ - by these scripted commands, you can order your page to ask the user about his favourite cat type for example.
 * **Variables**
 - In programming, we use variables to hold values. And we use variables in expressions. 
 
