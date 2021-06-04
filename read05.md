@@ -17,7 +17,7 @@ Logical operators are typically used with Boolean (logical) values; when they ar
 
 
 * Logical AND (&&)	`expr1 && expr2`	Returns expr1 if it can be converted to false; otherwise, returns expr2. Thus, when used with Boolean values, && returns true if both operands are true; otherwise, returns false.
-* Logical OR (||)	`expr1 || expr2`	Returns expr1 if it can be converted to true; otherwise, returns expr2. Thus, when used with Boolean values, || returns true if either operand is true; if both are false, returns false.
+* Logical OR **(||)**	`expr1 || expr2`	Returns expr1 if it can be converted to true; otherwise, returns expr2. Thus, when used with Boolean values, **||** returns true if either operand is true; if both are false, returns false.
 * Logical NOT (!)	`!expr`	Returns false if its single operand that can be converted to true; otherwise, returns true.
 
 There is alote more! visit the [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators) to discovre them all.
