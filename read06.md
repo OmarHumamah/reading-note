@@ -24,3 +24,5 @@ To use inline styles, add the style attribute to the relevant element. The style
 
 
 If some properties have been defined for the same selector (element) in different style sheets, the value from the last read style sheet will be used. 
+
+**[Back to: Homepage](https://omarhumamah.github.io/reading-note/).**

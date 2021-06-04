@@ -15,5 +15,6 @@ I'm Omar, I've studied English language and literature at TTU. I like technology
 | Read03  | [Structure web pages with HTML](https://omarhumamah.github.io/reading-note/read03)  |
 | Read04  | [Dynamic web pages JavaScript](read04.md)  |
 | Read05  | [Expressions and operators](read05.md)  |
+| Read06  | [Design web pages with CSS.](Read06.md)  |
 
 
