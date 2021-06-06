@@ -1,4 +1,4 @@
-# Control flow
+# Control flow & function
 **Control flow** is the order that the computer will read and execute statements or processes in a script.
 
 computer reads code from the first line to the last line unless it runs across a structure that change the control flow, such as conditionals and loops. 
