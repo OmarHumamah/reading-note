@@ -1,4 +1,5 @@
 # Reading-Notes
+## Code 101,102 reading notes
 **Omar Nabeel Humamah** 
 
   *Welcome!*
@@ -16,7 +17,25 @@ I'm Omar, I've studied English language and literature at TTU. I like technology
 | Read04  | [Dynamic web pages JavaScript.](read04.md)  |
 | Read05  | [Expressions and operators.](read05.md)  |
 | Read06  | [Design web pages with CSS.](read06.md)  |
-| Read07  | [ontrol flow & function.](read07.md)  |
+| Read07  | [Control flow & function.](read07.md)  |
 
+## Code 201 reading notes
+**Readings & Assignments**
 
-
+| Assignments      | Article |
+| ----------- | ----------- |
+| Read01  | []()  |
+| Read02  | []()  |
+| Read03  | []()  |
+| Read04  | []()  |
+| Read05  | []()  |
+| Read06  | []()  |
+| Read07  | []()  |
+| Read08  | []()  |
+| Read09  | []()  |
+| Read010  | []()  |
+| Read011  | []()  |
+| Read012  | []()  |
+| Read013  | []()  |
+| Read014  | []()  |
+| Read015  | []()  |
