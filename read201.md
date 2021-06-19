@@ -202,17 +202,29 @@ web page.
 
 >`<head>`
  >>`<title>Information About Your Pages</title>`
+
  >>`<meta name="description"`
+
  >>`content="An Essay on Installation Art" />`
+
  >>`<meta name="keywords"`
+
  >>`content="installation, art, opinion" />`
+
  >>`<meta name="robots"`
+
  >>`content="nofollow" />`
+
  >>`<meta http-equiv="author"`
+
  >>`content="Jon Duckett" />`
+
  >>`<meta http-equiv="pragma"`
+
  >>`content="no-cache" />`
+
  >>`<meta http-equiv="expires"`
+
  >>`content="Fri, 04 Apr 2014 23:59:59 GMT" />`
 
 >`</head>`
@@ -267,8 +279,37 @@ Design and Build Websites - Chapter 18: Process & Design, p452 `*
 
 ***
 ---
-## JavaSecipt
-**Intoduction**
+## JavaScript
+### Intoduction
+
+**How JavaScript makes web pages more interactive?**
+
+It allows you to make the web page more interactive by accessing and modifying the content and markup  used in the page while it been viewed in the browser.
+
+1. *ACCESS CONTENT*
+
+You can use JavaScript to select any
+element, attribute, or text from an
+HTML page. For example.
+
+2. *MODIFY CONTENT* 
+
+You can use JavaScript to add
+elements, attributes, and text to the
+page, or remove them. For example.
+
+3. *PROGRAM RULES*
+
+You can specify a set of steps for
+the browser to follow (like a recipe),
+which allows it to access or change the
+content of a page. For example.
+
+4. *REACT TO EVENTS*
+
+You can specify that a script should run
+when a specific event has occurred. For
+example, it could be run when.
 
 **The A B C of programming**
 
