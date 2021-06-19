@@ -290,27 +290,73 @@ It allows you to make the web page more interactive by accessing and modifying t
 
 You can use JavaScript to select any
 element, attribute, or text from an
-HTML page. For example.
+HTML page.
 
 2. *MODIFY CONTENT* 
 
 You can use JavaScript to add
 elements, attributes, and text to the
-page, or remove them. For example.
+page, or remove them. 
 
 3. *PROGRAM RULES*
 
 You can specify a set of steps for
 the browser to follow (like a recipe),
 which allows it to access or change the
-content of a page. For example.
+content of a page.
 
 4. *REACT TO EVENTS*
 
 You can specify that a script should run
-when a specific event has occurred. For
-example, it could be run when.
+when a specific event has occurred.
 
 **The A B C of programming**
+
+Before you learn how to read and write the JavaScript
+language itself, you need to become familiar with some key
+concepts in computer programming. They will be covered in
+three sections:
+
+* A. What is a script and how do I create one?
+
+`A scrip`t is a series of instructions that a
+computer can follow to achieve a goal. 
+
+To write a script, you need to first
+state your goal and then list the
+tasks that need to be completed in
+order to achieve it. 
+
+Start with the big picture of what
+you want to achieve, and break
+that down into smaller steps. 
+
+1. DEFINE THE GOAL
+
+2. DESIGN THE SCRIPT
+
+3. CODE EACH STEP
+
+* B. How do computers fit in with the world around them?
+
+The computers create `models` of the world using data.
+the models use `objects` to represnt physical things.
+
+Objects can have: 
+
+1. Properties.
+>Tells about objects.
+2. Methods.
+>Preform tasks using properties.
+3. Event
+>triggered when a user internet with the computer.
+
+* C. How do I write a script for a web page?
+
+The best practice is to keep JavaScript code in its own JavaScript file. then link it with your HTML file by `<script>` element.
+
+JavaScript do not change the HTML,
+because the script works with the model of the web
+page that the browser has created. 
 
 **[Back to: Homepage](https://omarhumamah.github.io/reading-note/).**
