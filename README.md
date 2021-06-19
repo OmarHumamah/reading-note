@@ -24,7 +24,7 @@ I'm Omar, I've studied English language and literature at TTU. I like technology
 
 | Assignments      | Article |
 | ----------- | ----------- |
-| Read01  | []()  |
+| Read01  | [HTML-JavaScript_Jod Duckett](read201.md)  |
 | Read02  | []()  |
 | Read03  | []()  |
 | Read04  | []()  |
