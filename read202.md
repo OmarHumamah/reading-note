@@ -59,3 +59,63 @@ a new term.
 >`<ins>`  it is used to show content that has been inserted into a document, and the browsers will display it usually underlined.
 
 > `<del>`  it is used to show text that has been deleted from a document. and the browsers will make it usually has a line through it.
+
+
+# CSS
+
+## Introducing CSS
+
+* What is CSS?
+
+CSS is a cascading style sheet, allows you to create rules that specify how the content of 
+an element should appear.
+
+* How CSS works?
+
+CSS works by associating rules with HTML elements. These rules govern  how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.
+
+![css](css.jpg)
+
+CSS Properties Affect How Elements Are Displayed
+
+![PV](PV.jpg)
+
+* How to link CSS to HTML?
+  - Internal
+  You can include CSS rules in HTML page via placeing it inside `<head>` element.
+  ![intrnl](internal.jpg)
+  
+  - External
+  Or you can make page for CSS then link it in HTML page via `<link>` elemnt. 
+  >External page is the best practice to style your web page
+
+  ![link](link.jpg)
+  
+   And select element in CSS page to adjust proreities.
+
+   ![csspage](csspage.jpg)
+
+
+*  CSS Selectors
+
+There are many different types 
+of CSS selector that allow you to 
+target rules to specific elements 
+in an HTML document. 
+![selectors](selectors.jpg)
+
+
+# JavaScript
+## BASIC JAVASCRIPT INSTRUCTIONS 
+![jsbasic](jsbasic.jpg)
+>THIS TOPIC IS VERY IMPORTANT YOU SHOULD READ IT FROM THE BOOK CEARFULY *JAVASCRIPT & JQUERY 
+Interactive Front-End Web Development* Pp53
+
+
+## DECISIONS & LOOPS 
+![dec&lops](dec&lops.jpg)
+>THIS TOPIC IS VERY IMPORTANT YOU SHOULD READ IT FROM THE BOOK CEARFULY *JAVASCRIPT & JQUERY 
+Interactive Front-End Web Development* Pp145
+
+
+**[Back to: Homepage](https://omarhumamah.github.io/reading-note/).**
