@@ -1,4 +1,4 @@
-# HTML & CSS
+# HTML list & CSS boxes
 ## HTML lists
 *  **Ordered lists**
  > - <`ol>`:
@@ -28,7 +28,7 @@ term).
 This is used to contain the 
 definition.
 
-![DL](course201/imgs/DL.jpg)
+![DL](DL.jpg)
 
 ## CSS Boxes
 * **Box dimensions**
@@ -36,13 +36,14 @@ definition.
 
   >`min-width, max-width``,`
   `min-height, max-height`
-   > to restrict the minimum amd maximam height 
+   > to restrict the minimum amd maximum height 
 * **Overflowing content**
   >`Overflow` to hide the items that over than the box can contain.
-  >`scroll` to add a scrole bar to show the hiddin items that are out of the box
+  >`scroll` to add a scroll bar to show the hidden items that are out of the box
   >`hidden` to hide the scroll bar so you cannot see the items that are out the box
 * **Border, Margin & Padding**
-![bmp](course201/read03.md)
+
+![bmp](BMP.jpg)
 
   >`border-style` :`solid,dotted ,dashed, double, groove, ridge, hidden / none `
 
