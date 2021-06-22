@@ -26,8 +26,8 @@ I'm Omar, I've studied English language and literature at TTU. I like technology
 | ----------- | ----------- |
 | Read01  | [HTML-JavaScript_Jod Duckett](read201.md)  |
 | Read02  | [HTML, CSS and JavaScript](read202.md)  |
-| Read03  | [HTML & CSS](course201/read03.md)  |
-| Read04  | []()  |
+| Read03  | [HTML & CSS](course201/read03/read3.md)  |
+| Read04  | [ HTML Links, JS Functions, and Intro to CSS Layout]((course201/read04/read4.md)  |
 | Read05  | []()  |
 | Read06  | []()  |
 | Read07  | []()  |
