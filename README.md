@@ -28,7 +28,7 @@ I'm Omar, I've studied English language and literature at TTU. I like technology
 | Read02  | [HTML, CSS and JavaScript](read202.md)  |
 | Read03  | [HTML list & CSS boxes](course201/read03/read03.md)  |
 | Read04  | [HTML-links,CSS-layout & JavaScript-function](course201/read04/read04.md)  |
-| Read05  | [# CSS-HTML Images, color and Text](course201/read04/read05.md)  |
+| Read05  | [ CSS-HTML Images, color and Text](course201/read04/read05.md)  |
 | Read06  | []()  |
 | Read07  | []()  |
 | Read08  | []()  |
