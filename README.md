@@ -29,8 +29,8 @@ I'm Omar, I've studied English language and literature at TTU. I like technology
 | Read03  | [HTML list & CSS boxes](course201/read03/read03.md)  |
 | Read04  | [HTML-links,CSS-layout & JavaScript-function](course201/read04/read04.md)  |
 | Read05  | [ CSS-HTML Images, color and Text](course201/read05/read05.md)  |
-| Read06  | [The proplem domain, Object Literals & Document Object Model.](ourse201/read06/read06.md)  |
-| Read07  | []()  |
+| Read06  | [The proplem domain, Object Literals & Document Object Model.](course201/read06/read06.md)  |
+| Read07  | [Domain Modeling & HTML Tables](course201/read07/read07.md)  |
 | Read08  | []()  |
 | Read09  | []()  |
 | Read10  | []()  |
