@@ -1,4 +1,4 @@
-# css layout
+# CSS layout
 * Controlling the position of elements
     * there is some elements displayed bloke`<h1> <p> <ul> <li>` and some elements displayed inline `<img> <b> <i>.`
     * you can control the flow of elements by positions schemes: Normal flow, Relative Positioning, Absolute positioning, Fixed Positioning, Floating Elements.
