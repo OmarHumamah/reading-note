@@ -34,7 +34,7 @@ I'm Omar, I've studied English language and literature at TTU. I like technology
 | Read08  | [CSS layout](course201/read08/read08.md)  |
 | Read09  | [Forms  & Events](course201/read09/read09.md)  |
 | Read10  | [Error Handling & Debugging](course201/read10/read10.md)  |
-| Read11  | []()  |
+| Read11  | [CSS images & audio and video](course201/read11/read11.md)  |
 | Read12  | []()  |
 | Read13  | []()  |
 | Read14  | []()  |
