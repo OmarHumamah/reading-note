@@ -35,7 +35,7 @@ I'm Omar, I've studied English language and literature at TTU. I like technology
 | Read09  | [Forms  & Events](course201/read09/read09.md)  |
 | Read10  | [Error Handling & Debugging](course201/read10/read10.md)  |
 | Read11  | [CSS images & audio and video](course201/read11/read11.md)  |
-| Read12  | [HTML `<canvas>` Element & Chart.js](course201/read11/read11.md)  |
-| Read13  | []()  |
-| Read14  | []()  |
-| Read15  | []()  |
+| Read12  | [HTML `<canvas>` Element & Chart.js](course201/read12/read12.md)  |
+| Read13  | [Local Storage](course201/read13/read13.md)  |
+| Read14 A | []()  |
+| Read14 B | []()  |
