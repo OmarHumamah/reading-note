@@ -37,5 +37,5 @@ I'm Omar, I've studied English language and literature at TTU. I like technology
 | Read11  | [CSS images & audio and video](course201/read11/read11.md)  |
 | Read12  | [HTML `<canvas>` Element & Chart.js](course201/read12/read12.md)  |
 | Read13  | [Local Storage](course201/read13/read13.md)  |
-| Read14 A | []()  |
-| Read14 B | []()  |
+| Read14 A | [CSS Transforms, Transitions, and Animations](course201/read14a/read14a.md)  |
+| Read14 B | [What Google Learned About Teams](course201/read14b/read14b.md)  |
