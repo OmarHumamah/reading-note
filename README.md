@@ -1,10 +1,14 @@
 # Reading-Notes
-## Code 101,102 reading notes
+
 **Omar Nabeel Humamah** 
 
   *Welcome!*
 
 I'm Omar, I've studied English language and literature at TTU. I like technology and internet, so I decided to learn Web developinng programming language.
+
+This web-site to authorize the reading assignments and it will be like reference to me in my coding journey.
+## Code 102 - Intro to Software Development
+
 
 **Readings & Assignments**
 
@@ -19,7 +23,7 @@ I'm Omar, I've studied English language and literature at TTU. I like technology
 | Read06  | [Design web pages with CSS.](read06.md)  |
 | Read07  | [Control flow & function.](read07.md)  |
 
-## Code 201 reading notes
+## Code 201 - Foundations of Software Development
 **Readings & Assignments**
 
 | Assignments      | Article |
@@ -39,3 +43,12 @@ I'm Omar, I've studied English language and literature at TTU. I like technology
 | Read13  | [Local Storage](course201/read13/read13.md)  |
 | Read14 A | [CSS Transforms, Transitions, and Animations](course201/read14a/read14a.md)  |
 | Read14 B | [What Google Learned About Teams](course201/read14b/read14b.md)  |
+
+## Code 301 - Intermediate Software Development
+**Readings & Assignments**
+| Assignments      | Article |
+| ----------- | ----------- |
+## Code 401 - Advanced Software Development
+**Readings & Assignments**
+| Assignments      | Article |
+| ----------- | ----------- |
