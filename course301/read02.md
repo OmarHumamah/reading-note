@@ -1,6 +1,6 @@
 # React: State and Props
 
-* **What are component lifecycle events?**
+## **What are component lifecycle events?**
     - React lets you define components as classes or functions. The methods that you are able to use on these are called lifecycle events. These methods can be called during the lifecycle of a component, and they allow you to update the UI and application states.
 
 ![img](read02.jpg)
@@ -14,4 +14,14 @@ static getDerivedStateFromProps, shouldComponentUpdate, render,
 getSnapshotBeforeUpdate, componentDidUpdate, UNSAFE_componentWillUpdate, UNSAFE_componentWillReceiveProps
     - **Unmounting**
 The final phase of the lifecycle if called when a component is being removed from the DOM. componentWillUnmount is the only lifecycle event during this phase.
+
+*[source](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)*
+
+## React State Vs Props
+* What types of things can you pass in the props?
+* What is the big difference between props and state?
+* When do we re-render our application?
+* What are some examples of things that we could store in state?
+
+
 **[Back to: Homepage](https://omarhumamah.github.io/reading-note/).**
