@@ -51,7 +51,7 @@ This web-site to authorize the reading assignments and it will be like reference
 | ----------- | ----------- |
 | Read01  | [ Introduction to React and Components](course301/read01.md)  |
 | Read02  | [React: State and Props](course301/read02.md)  |
-
+| Read03  | [Passing Functions as Props](course301/read03.md)  |
 ## Code 401 - Advanced Software Development
 **Readings & Assignments**
 
