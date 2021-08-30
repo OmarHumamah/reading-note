@@ -46,11 +46,14 @@ This web-site to authorize the reading assignments and it will be like reference
 
 ## Code 301 - Intermediate Software Development
 **Readings & Assignments**
+
 | Assignments      | Article |
 | ----------- | ----------- |
 | Read01  | [ Introduction to React and Components](course301/read01.md)  |
 | Read02  | [React: State and Props](course301/read02.md)  |
+
 ## Code 401 - Advanced Software Development
 **Readings & Assignments**
+
 | Assignments      | Article |
 | ----------- | ----------- |
