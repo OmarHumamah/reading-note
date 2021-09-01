@@ -53,6 +53,7 @@ This web-site to authorize the reading assignments and it will be like reference
 | Read02  | [React: State and Props](course301/read02.md)  |
 | Read03  | [Passing Functions as Props](course301/read03.md)  |
 | Read04  | [React and Forms](course301/read04.md)  |
+| Read05  | [Thinking in React](course301/read05.md)  |
 
 
 ## Code 401 - Advanced Software Development
