@@ -15,6 +15,6 @@
 * How can you identify where state needs to live?
     -  State is reserved only for interactivity, that is, data that changes over time. Since the app is a static version, you don’t need it.
 
-[source](https://reactjs.org/docs/thinking-in-react.html)
+*[source](https://reactjs.org/docs/thinking-in-react.html)*
 
 **[Back to: Homepage](https://omarhumamah.github.io/reading-note/).**

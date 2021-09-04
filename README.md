@@ -54,6 +54,7 @@ This web-site to authorize the reading assignments and it will be like reference
 | Read03  | [Passing Functions as Props](course301/read03.md)  |
 | Read04  | [React and Forms](course301/read04.md)  |
 | Read05  | [Thinking in React](course301/read05.md)  |
+| Read06  | [NODE.JS](course301/read06.md)  |
 
 
 ## Code 401 - Advanced Software Development
