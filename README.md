@@ -58,6 +58,7 @@ This web-site to authorize the reading assignments and it will be like reference
 | Read07  | [REST](course301/read07.md)  |
 | Read08  | [APIs](course301/read08.md)  |
 | Read09  | [FUNCTIONAL PROGRAMMING](course301/read09.md)  |
+| Read10  | [In memory storage](course301/read010.md)  |
 
 
 ## Code 401 - Advanced Software Development
