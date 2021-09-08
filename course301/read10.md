@@ -36,6 +36,6 @@ _[source](https://www.freecodecamp.org/news/understanding-the-javascript-call-st
 - What is a breakpoint? What does the word ‘debugger’ do in your code?
   - The breakpoint can be achieved by putting a debugger statement in your code in the line you want to break. You can also add conditional breakpoints by right-clicking a previous set breakpoint, which will make your program stop at that point only if a condition is met, this is awesome for when you want to debug huge cycles for specific values. In this example the breakpoint will point stop when the index reaches 40.
 
-_[source](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)_
+_[source](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)_
 
 **[Back to: Homepage](https://omarhumamah.github.io/reading-note/).**
