@@ -49,21 +49,22 @@ This web-site to authorize the reading assignments and it will be like reference
 
 **Readings & Assignments**
 
-| Assignments | Article                                                      |
-| ----------- | ------------------------------------------------------------ |
-| Read01      | [Introduction to React and Components](course301/read01.md) |
-| Read02      | [React: State and Props](course301/read02.md)                |
-| Read03      | [Passing Functions as Props](course301/read03.md)            |
-| Read04      | [React and Forms](course301/read04.md)                       |
-| Read05      | [Thinking in React](course301/read05.md)                     |
-| Read06      | [NODE.JS](course301/read06.md)                               |
-| Read07      | [REST](course301/read07.md)                                  |
-| Read08      | [APIs](course301/read08.md)                                  |
-| Read09      | [FUNCTIONAL PROGRAMMING](course301/read09.md)                |
-| Read10      | [In memory storage](course301/read10.md)                     |
-| Read11      | [Mongo and Mongoose](course301/read11.md)                    |
-| Read12      | [CRUD](course301/read12.md)                                  |
-| Read14      | [Authentication](course301/read14.md)                        |
+| Assignments | Article                                                           |
+| ----------- | ----------------------------------------------------------------- |
+| Read01      | [Introduction to React and Components](course301/read01.md)       |
+| Read02      | [React: State and Props](course301/read02.md)                     |
+| Read03      | [Passing Functions as Props](course301/read03.md)                 |
+| Read04      | [React and Forms](course301/read04.md)                            |
+| Read05      | [Thinking in React](course301/read05.md)                          |
+| Read06      | [NODE.JS](course301/read06.md)                                    |
+| Read07      | [REST](course301/read07.md)                                       |
+| Read08      | [APIs](course301/read08.md)                                       |
+| Read09      | [FUNCTIONAL PROGRAMMING](course301/read09.md)                     |
+| Read10      | [In memory storage](course301/read10.md)                          |
+| Read11      | [Mongo and Mongoose](course301/read11.md)                         |
+| Read12      | [CRUD](course301/read12.md)                                       |
+| Read13      | [Diversity & Inclusion in the Tech Industry](course301/read13.md) |
+| Read14      | [Authentication](course301/read14.md)                             |
 
 ## Code 401 - Advanced Software Development
 
