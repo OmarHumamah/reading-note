@@ -70,5 +70,7 @@ This web-site to authorize the reading assignments and it will be like reference
 
 **Readings & Assignments**
 
-| Assignments | Article |
-| ----------- | ------- |
+| Assignments | Article                                  |
+| ----------- | ---------------------------------------- |
+| Read01      | [Get Ready for 401](course401/read01.md) |
+
