@@ -70,7 +70,7 @@ This web-site to authorize the reading assignments and it will be like reference
 
 **Readings & Assignments**
 
-| Assignments | Article                                  |
-| ----------- | ---------------------------------------- |
-| Read01      | [Get Ready for 401](course401/read01.md) |
-
+| Assignments | Article                                           |
+| ----------- | ------------------------------------------------- |
+| Read00      | [Get Ready for 401](course401/read00.md)          |
+| Read01      | [Node Ecosystem, TDD, CI/CD](course401/read01.md) |

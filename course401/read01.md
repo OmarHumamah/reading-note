@@ -1,74 +1,39 @@
-# Get Ready for 401
+# Node Ecosystem, TDD, CI/CD
 
-## How to Solve Programming Problems
+### Describe (in plain English) what Array.map() does
 
-1. Read the problem completely twice.
-2. Solve the problem manually with 3 sets of sample data.
-3. Optimize the manual steps.
-4. Write the manual steps as comments or pseudo-code.
-5. Replace the comments or pseudo-code with real code.
-6. Optimize the real code.
+- it loop throw the arrays' elements and make a new array with some configuration of the the original array elements
+  > arr.map((element,index,arr)=>{ return element \* 2 })
 
-**[source](https://simpleprogrammer.com/solving-problems-breaking-it-down/)**
+### Describe (in plain English) what Array.reduce() does
 
----
+- it executes a reducer function for each value of an array, and it returns one value which is the accumulated result.
+  > arr.reduce((previousValue, currentValue)=>{ return previousValue + currentValue }, initialValue)
 
-## Pretend Your Time is Worth $1,000/Hour and You’ll Become 100x More Productive
+### Provide code snippets showing how to use superagent() to fetch data from a URL and log the result With normal Promise .then() syntax.
 
-1. fill your time with what is worth.
-2. **“Busyness” Isn’t a Badge of Honor; It’s a Sign of Weakness**; to be focused on your gaol is more important than being busy.
-3. **Busyness and Stress Are the Enemy**; focus, manage time, _If you don’t manage your time, it will manage you_.
-4. **As You Think, So You Are**; let the people know that your time is expensive, important, and valuable, and learn to say no to unimportant things.
+    let  characters = [] ;
+    superagent.get('https://swapi.dev/api/people/1')
+    .then(result=>{
+      characters = result.body;
+      let c = characters.name;
+      console.log({'Luke Skywalker':characters.url})
+    })
+    .catch(err=> console.log(err));
 
-### In conclusion
+### Again with async / await syntax
 
-- In reality, a lot of people are living a frenzied, busy life. They wear their business as a badge of honor, and brag about their full schedules.
-- Frankly, most people prefer the little dopamine boost of checking boxes on a to-do list than actually getting important work done.
-- How do you value your time?
-- Take stock of the things you did this week. How many of them were worthy of $1,000/hour?
-- How many activities were a true waste of time?
-- Value your time at what it deserves to be. The higher the value, the more important and productive work you’ll do — and the less trivial and mindless tasks you’ll get caught in.
+    async function getCity (cityName){
+       let results = await superagent.get(`https://geocode.xyz/${cityName}?json=1`);
+        console.log(cityName);
+      console.log('longitude:',results.body.longt);
+      console.log('latitude:',results.body.latt);
+    }
 
-[source](https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)
+### Explain promises as though you were mentoring a Code 301 level student
 
----
+- it say to the javascript do your work, I don’t care how long it takes and I’m going to go ahead and keep working … but let me know when you’re done .then() give me the data and let me deal with it myself”
 
-## How to think like a programmer
+### Are all callback functions considered to be Asynchronous? Why or Why Not?
 
-### Steps to thing like a programmer
-
-1. Understand
-   - You should understand the problem to solve it! Analyze it and try to think about it manually.
-2. Plan
-   - Do not start coding directly. Give your brain time to analyze the problem and process the information, and write some comments and hints.
-3. Divide
-   - Do not try to solve a big problem at one, divide the problem to sub-problems, solve them one by one then connect the dots together.
-4. Stuck?
-   - if you stuck try these three methods:-
-     - **Debug**: Go step by step through your solution.
-     - **Reassess**: Take a step back. Look at the problem from another perspective.
-     - **Research**: use Google, StackOverflow, ...etc.
-
-[source](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
-
----
-
-## the 5 whys problem solving skill
-
-The 5 Whys strategy is a simple, effective tool for uncovering the root of a problem. You can use it in troubleshooting, problem-solving, and quality-improvement initiatives.
-
-### How to Use the 5 Whys
-
-1. Assemble a Team
-2. Define the Problem
-3. Ask the First "Why?"
-4. Ask "Why?" Four More Times
-5. Know When to Stop
-6. Address the Root Cause(s)
-7. Monitor Your Measures
-
-[source](https://www.mindtools.com/pages/article/newTMC_5W.htm)
-
----
-
-**[Back to: Homepage](https://omarhumamah.github.io/reading-note/).**
+- No, the callback functions are not Asynchronous; id you need to make it as so, you have to but use promises or async method. otherwise, the callBack will take order by priority.
