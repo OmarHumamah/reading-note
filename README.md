@@ -75,4 +75,7 @@ This web-site to authorize the reading assignments and it will be like reference
 | Read00      | [Get Ready for 401](course401/read00.md)          |
 | Read01      | [Node Ecosystem, TDD, CI/CD](course401/read01.md) |
 | Read02      | [Express](course401/read02.md)                    |
+| Read03      | [Express REST API](course401/read03.md)           |
+| Read04      | [Data Modeling](course401/read04.md)              |
+
 
