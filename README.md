@@ -79,5 +79,7 @@ This web-site to authorize the reading assignments and it will be like reference
 | Read04      | [Data Modeling](course401/read04.md)              |
 | Read05      | [Linked list](course401/read05.md)                |
 | Read06      | [ Authentication](course401/read06.md)            |
-| Read07      | [ Bearer Authorization](course401/read07.md)            |
+| Read07      | [ Bearer Authorization](course401/read07.md)      |
+| Read08      | [ Access Control (ACL)](course401/read08.md)      |
+
 
