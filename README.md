@@ -82,5 +82,6 @@ This web-site to authorize the reading assignments and it will be like reference
 | Read07      | [ Bearer Authorization](course401/read07.md)         |
 | Read08      | [ Access Control (ACL)](course401/read08.md)         |
 | Read09      | [ Authorization/Authentication](course401/read09.md) |
+| Read10      | [ Stacks and Queues](course401/read10.md)            |
 
 
