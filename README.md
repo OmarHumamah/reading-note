@@ -70,16 +70,17 @@ This web-site to authorize the reading assignments and it will be like reference
 
 **Readings & Assignments**
 
-| Assignments | Article                                           |
-| ----------- | ------------------------------------------------- |
-| Read00      | [Get Ready for 401](course401/read00.md)          |
-| Read01      | [Node Ecosystem, TDD, CI/CD](course401/read01.md) |
-| Read02      | [Express](course401/read02.md)                    |
-| Read03      | [Express REST API](course401/read03.md)           |
-| Read04      | [Data Modeling](course401/read04.md)              |
-| Read05      | [Linked list](course401/read05.md)                |
-| Read06      | [ Authentication](course401/read06.md)            |
-| Read07      | [ Bearer Authorization](course401/read07.md)      |
-| Read08      | [ Access Control (ACL)](course401/read08.md)      |
+| Assignments | Article                                              |
+| ----------- | ---------------------------------------------------- |
+| Read00      | [Get Ready for 401](course401/read00.md)             |
+| Read01      | [Node Ecosystem, TDD, CI/CD](course401/read01.md)    |
+| Read02      | [Express](course401/read02.md)                       |
+| Read03      | [Express REST API](course401/read03.md)              |
+| Read04      | [Data Modeling](course401/read04.md)                 |
+| Read05      | [Linked list](course401/read05.md)                   |
+| Read06      | [ Authentication](course401/read06.md)               |
+| Read07      | [ Bearer Authorization](course401/read07.md)         |
+| Read08      | [ Access Control (ACL)](course401/read08.md)         |
+| Read09      | [ Authorization/Authentication](course401/read09.md) |
 
 
