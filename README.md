@@ -85,5 +85,6 @@ This web-site to authorize the reading assignments and it will be like reference
 | Read10      | [ Stacks and Queues](course401/read10.md)            |
 | Read11      | [ Event Driven Applications](course401/read11.md)    |
 | Read12      | [ Socket.io](course401/read12.md)                    |
+| Read13      | [ Message Queues](course401/read13.md)               |
 
 
