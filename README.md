@@ -90,5 +90,5 @@ This web-site to authorize the reading assignments and it will be like reference
 | Read15      | [ Trees](course401/read15.md)                        |
 | Read16      | [ AWS: Cloud Servers](course401/read16.md)           |
 | Read17      | [ AWS: S3 and Lambda](course401/read17.md)           |
-
+| Read18      | [ AWS: API, Dynamo and Lambda](course401/read18.md)  |
 
