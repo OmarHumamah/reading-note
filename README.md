@@ -94,4 +94,5 @@ This web-site to authorize the reading assignments and it will be like reference
 | Read19      | [ AWS: Events](course401/read19.md)                  |
 | Read26      | [ Component Based UI ](course401/read26.md)          |
 | Read27      | [ useState() Hook](course401/read27.md)              |
+| Read28      | [ Component Lifecycle ](course401/read28.md)         |
 
