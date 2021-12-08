@@ -96,4 +96,5 @@ This web-site to authorize the reading assignments and it will be like reference
 | Read27      | [ useState() Hook](course401/read27.md)               |
 | Read28      | [ Component Lifecycle ](course401/read28.md)          |
 | Read29      | [ Advanced State with Reducers ](course401/read29.md) |
+| Read30      | [ Hash Tables ](course401/read30.md)                  |
 
