@@ -70,29 +70,30 @@ This web-site to authorize the reading assignments and it will be like reference
 
 **Readings & Assignments**
 
-| Assignments | Article                                              |
-| ----------- | ---------------------------------------------------- |
-| Read00      | [Get Ready for 401](course401/read00.md)             |
-| Read01      | [Node Ecosystem, TDD, CI/CD](course401/read01.md)    |
-| Read02      | [Express](course401/read02.md)                       |
-| Read03      | [Express REST API](course401/read03.md)              |
-| Read04      | [Data Modeling](course401/read04.md)                 |
-| Read05      | [Linked list](course401/read05.md)                   |
-| Read06      | [ Authentication](course401/read06.md)               |
-| Read07      | [ Bearer Authorization](course401/read07.md)         |
-| Read08      | [ Access Control (ACL)](course401/read08.md)         |
-| Read09      | [ Authorization/Authentication](course401/read09.md) |
-| Read10      | [ Stacks and Queues](course401/read10.md)            |
-| Read11      | [ Event Driven Applications](course401/read11.md)    |
-| Read12      | [ Socket.io](course401/read12.md)                    |
-| Read13      | [ Message Queues](course401/read13.md)               |
-| Read14      | [ Event Driven Architecture](course401/read14.md)    |
-| Read15      | [ Trees](course401/read15.md)                        |
-| Read16      | [ AWS: Cloud Servers](course401/read16.md)           |
-| Read17      | [ AWS: S3 and Lambda](course401/read17.md)           |
-| Read18      | [ AWS: API, Dynamo and Lambda](course401/read18.md)  |
-| Read19      | [ AWS: Events](course401/read19.md)                  |
-| Read26      | [ Component Based UI ](course401/read26.md)          |
-| Read27      | [ useState() Hook](course401/read27.md)              |
-| Read28      | [ Component Lifecycle ](course401/read28.md)         |
+| Assignments | Article                                               |
+| ----------- | ----------------------------------------------------- |
+| Read00      | [Get Ready for 401](course401/read00.md)              |
+| Read01      | [Node Ecosystem, TDD, CI/CD](course401/read01.md)     |
+| Read02      | [Express](course401/read02.md)                        |
+| Read03      | [Express REST API](course401/read03.md)               |
+| Read04      | [Data Modeling](course401/read04.md)                  |
+| Read05      | [Linked list](course401/read05.md)                    |
+| Read06      | [ Authentication](course401/read06.md)                |
+| Read07      | [ Bearer Authorization](course401/read07.md)          |
+| Read08      | [ Access Control (ACL)](course401/read08.md)          |
+| Read09      | [ Authorization/Authentication](course401/read09.md)  |
+| Read10      | [ Stacks and Queues](course401/read10.md)             |
+| Read11      | [ Event Driven Applications](course401/read11.md)     |
+| Read12      | [ Socket.io](course401/read12.md)                     |
+| Read13      | [ Message Queues](course401/read13.md)                |
+| Read14      | [ Event Driven Architecture](course401/read14.md)     |
+| Read15      | [ Trees](course401/read15.md)                         |
+| Read16      | [ AWS: Cloud Servers](course401/read16.md)            |
+| Read17      | [ AWS: S3 and Lambda](course401/read17.md)            |
+| Read18      | [ AWS: API, Dynamo and Lambda](course401/read18.md)   |
+| Read19      | [ AWS: Events](course401/read19.md)                   |
+| Read26      | [ Component Based UI ](course401/read26.md)           |
+| Read27      | [ useState() Hook](course401/read27.md)               |
+| Read28      | [ Component Lifecycle ](course401/read28.md)          |
+| Read29      | [ Advanced State with Reducers ](course401/read29.md) |
 
