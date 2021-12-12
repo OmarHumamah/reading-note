@@ -97,4 +97,5 @@ This web-site to authorize the reading assignments and it will be like reference
 | Read28      | [ Component Lifecycle ](course401/read28.md)          |
 | Read29      | [ Advanced State with Reducers ](course401/read29.md) |
 | Read30      | [ Hash Tables ](course401/read30.md)                  |
+| Read31      | [ Context API ](course401/read31.md)                  |
 
