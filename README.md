@@ -100,5 +100,8 @@ This web-site to authorize the reading assignments and it will be like reference
 | Read31      | [ Context API ](course401/read31.md)                  |
 | Read32      | [ Context API - Behaviors ](course401/read32.md)      |
 | Read33      | [ <Login /> and <Auth /> ](course401/read33.md)       |
-| Read34      | [ API Integration ](course401/read34.md)       |
+| Read34      | [ API Integration ](course401/read34.md)              |
+| Read35      | [ Graphs ](course401/read35.md)                       |
+| Read36      | [ Application State with Redux ](course401/read36.md) |
+| Read37      | [ Redux - Combined Reducers ](course401/read37.md)    |
 
