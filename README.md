@@ -104,4 +104,5 @@ This web-site to authorize the reading assignments and it will be like reference
 | Read35      | [ Graphs ](course401/read35.md)                       |
 | Read36      | [ Application State with Redux ](course401/read36.md) |
 | Read37      | [ Redux - Combined Reducers ](course401/read37.md)    |
+| Read38      | [ Redux - Asynchronous Actions ](course401/read38.md) |
 
