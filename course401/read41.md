@@ -14,3 +14,20 @@
 - `namespace`: It is a set of signs that are used to identify and refer to objects of various kinds. A namespace ensures that all of a given set of objects have unique names so that they can be easily identified.
 
 ---
+
+## React Native
+
+- Create native apps for Android and iOS using React
+
+- React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.
+
+- [source](https://reactnative.dev/)
+
+- [getting-started](https://reactnative.dev/docs/getting-started)
+- [tutorial](https://reactnative.dev/docs/tutorial)
+
+## Expo
+
+- Make any app. Run it everywhere. Build one project that runs natively on all your users' devices
+
+- [source](https://expo.dev/)
