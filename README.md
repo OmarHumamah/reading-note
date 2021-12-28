@@ -108,4 +108,6 @@ This web-site to authorize the reading assignments and it will be like reference
 | Read39      | [ Redux - Additional Topics ](course401/read39.md)    |
 | Read41      | [ Redux - React Native ](course401/read41.md)         |
 | Read42      | [ Redux - Ethics in Tech ](course401/read42.md)       |
+| Read43      | [ Source Software Contribution ](course401/read43.md) |
+
 
